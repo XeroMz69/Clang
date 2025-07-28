@@ -1,2 +1,2 @@
 # link downloads:
-* <a href=https://github.com/XeroMz69/Clang/releases/download/Xero-Clang-20250721.1/Xero-Clang-22.0.0git-20250721.tar.gz>Xero-Clang-22.0.0git-20250721.tar.gz</a>
+* <a href=https://github.com/XeroMz69/Clang/releases/download/Xero-Clang-20250728.1/Xero-Clang-(https://github.com/llvm/llvm-project-20250728.tar.gz>Xero-Clang-(https://github.com/llvm/llvm-project-20250728.tar.gz</a>
